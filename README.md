@@ -1,4 +1,4 @@
-# Use can used it on the following link
+# Use can use it on the following link
 
 Click to use Video Call App (https://imrankabir.github.io/videocall)
 
