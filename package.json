@@ -1,0 +1,15 @@
+{
+  "name": "videocall",
+  "version": "1.0.0",
+  "description": "Click to use [Video Call App](https://imrankabir.github.io/videocall)",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "track-visitor": "github:imrankabir/track-visitor"
+  }
+}
